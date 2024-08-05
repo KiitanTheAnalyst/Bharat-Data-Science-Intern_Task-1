@@ -1,5 +1,6 @@
-# Bharat-Internship - Machine Learning Projects worked on during my internship program at Bharat Intern
-Project Title:** Titanic Survival Prediction  
+# Bharat-Internship - Machine Learning Projects worked on during my internship program as a Data Science Intern
+
+## Project Title: Titanic Survival Prediction  
 
 This project delved into predicting passenger survival on the Titanic using a supervised machine learning algorithm - Logistic Regression. Logistic Regression because it is good for binary classification problems. It will provide a clear understanding of the relationship between the features and the survival outcome.  
 
