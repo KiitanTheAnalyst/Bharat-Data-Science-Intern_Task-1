@@ -23,10 +23,14 @@ Here's a brief overview of the process and insights:
 - Evaluated model performance with metrics such as accuracy, precision, recall, and F1-score.
 
 5. Insights Derived:
-- The male gender had a higher survival rate compared to the female.
-- Passengers in upper class (1st class) were more likely to survive.
-- Family size had a significant impact on survival, with smaller families having better chances.
-- Fare also played a crucial role, with higher fares correlating with higher survival rates.
+- Survival Rate by Gender: Females had a significantly higher survival rate compared to males.
+- Survival Rate by Passenger Class: Passengers in first class had the highest survival rate, followed by second class, with third class having the lowest survival rate.
+- Age Distribution by Survival: Younger passengers had higher survival rates, with a noticeable peak in survival for children.
+                                The age distribution of those who did not survive is more spread out across all ages.
+- Fare Distribution by Survival: Passengers who paid higher fares tended to have higher survival rates, which correlates with the higher survival rate in first-class passengers.
+- Correlation Matrix: There is a positive correlation between the Fare and Survived variables.
+                      A negative correlation exists between the Pclass and Survived variables (lower class number, i.e., first class, is associated with higher survival).
+                      The Sex variable also shows a significant negative correlation, indicating that being male is negatively associated with survival.
 
-The details of this prediction was hosted [here](https://a9f2-34-145-128-248.ngrok-free.app/) on ngrok using an html file which makes the input process easier for users.
-This project has been a fantastic learning experience, and I'm excited to continue exploring and growing in the field of data science.
+A web application was developed using Flask and a pre-trained machine learning model to predict Titanic survival. The application collects passenger details through a user-friendly HTML form and returns survival predictions instantly. I used ngrok to make the application accessible online, allowing real-time interaction. 
+This project showcases the power of integrating machine learning with web development for practical applications.
