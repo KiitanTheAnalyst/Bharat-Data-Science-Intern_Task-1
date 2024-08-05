@@ -1,4 +1,4 @@
-# Bharat-Internship - Machine Learning Projects worked on during my internship program as a Data Science Intern
+# Bharat-Internship - Machine Learning Projects worked on as a Data Science Intern
 
 ## Project Title: Titanic Survival Prediction  
 
