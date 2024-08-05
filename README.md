@@ -2,7 +2,7 @@
 
 ## Project Title: Titanic Survival Prediction  
 
-This project delved into predicting passenger survival on the Titanic using a supervised machine learning algorithm - Logistic Regression. Logistic Regression because it is good for binary classification problems. It will provide a clear understanding of the relationship between the features and the survival outcome.  
+This project delved into predicting passenger survival on the Titanic using a supervised machine learning algorithm - Logistic Regression. Logistic Regression is used because it is good for binary classification problems and will help provide a clear understanding of the relationship between the features and the survival outcome.  
 
 Here's a brief overview of the process and insights:
 
